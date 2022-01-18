@@ -1,0 +1,20 @@
+font-family: 'Roboto', sans-serif;
+font-family: 'Hammersmith One', sans-serif;
+font-family: 'Playfair Display', serif;
+
+
+<i class="far fa-play-circle"></i>
+<i class="fas fa-desktop"></i>
+<i class="fas fa-paint-brush"></i>
+<i class="fas fa-mobile-alt"></i>
+<i class="fas fa-chart-pie"></i>
+<i class="fas fa-gamepad"></i>
+<i class="far fa-heart"></i>
+<i class="fab fa-facebook-f"></i>
+<i class="fab fa-twitter"></i>
+<i class="fab fa-dribbble"></i>
+<i class="fab fa-instagram"></i>
+<i class="fab fa-google-plus-g"></i>
+<i class="fab fa-youtube"></i>
+<i class="fas fa-map-marker-alt"></i>
+<i class="fas fa-phone"></i>
